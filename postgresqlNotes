@@ -1,0 +1,4 @@
+# to start a server
+sudo su - postgres
+psql
+CREATE USER username WITH PASSWORD 'anyPassword';
