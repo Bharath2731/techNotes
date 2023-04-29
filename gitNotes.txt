@@ -1,4 +1,14 @@
+## git commands
 https://dzone.com/articles/top-20-git-commands-with-examples
 
 #git commands url
 https://dzone.com/articles/top-35-git-commands-with-examples-and-bonus
+
+#springboot resources
+https://doc.lagout.org/programmation/Spring%20Boot%20in%20Action.pdf
+https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf
+
+
+##
+git checkout  used to change branch
+git add,git commit,git status,git push
